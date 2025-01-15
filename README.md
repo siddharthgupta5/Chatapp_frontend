@@ -2,7 +2,7 @@ Here's a detailed `README.md` file for your `Chatapp_frontend` repository:
 
 ---
 
-# ChatApp-Frontend
+# Chatapp_frontend
 
 Welcome to the **Chatapp_frontend** repository! This project is the frontend component of the ChatApp, a real-time chat application built using React. The application provides seamless communication between users and the server using WebSocket technology, ensuring instant message delivery and a smooth user experience. The backend of this project is powered by Strapi, handling user authentication and data storage.
 
@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed on your machine:
 
    ```bash
    git clone https://github.com/siddharthgupta5/Chatapp_frontend.git
-   cd ChatApp-Frontend
+   cd Chatapp_frontend
    ```
 
 2. **Install the required dependencies:**
@@ -62,7 +62,7 @@ Once the dependencies are installed, you can run the application locally.
 ## Project Structure
 
 ```plaintext
-ChatApp-Frontend/
+Chatapp_frontend/
 ├── public/
 │   ├── index.html
 │   └── ...
