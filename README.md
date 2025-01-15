@@ -1,10 +1,10 @@
-Here's a detailed `README.md` file for your `ChatApp-Frontend` repository:
+Here's a detailed `README.md` file for your `Chatapp_frontend` repository:
 
 ---
 
 # ChatApp-Frontend
 
-Welcome to the **ChatApp-Frontend** repository! This project is the frontend component of the ChatApp, a real-time chat application built using React. The application provides seamless communication between users and the server using WebSocket technology, ensuring instant message delivery and a smooth user experience. The backend of this project is powered by Strapi, handling user authentication and data storage.
+Welcome to the **Chatapp_frontend** repository! This project is the frontend component of the ChatApp, a real-time chat application built using React. The application provides seamless communication between users and the server using WebSocket technology, ensuring instant message delivery and a smooth user experience. The backend of this project is powered by Strapi, handling user authentication and data storage.
 
 ## Features
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YashLT224/ChatApp-Frontend.git
+   git clone https://github.com/siddharthgupta5/Chatapp_frontend.git
    cd ChatApp-Frontend
    ```
 
@@ -93,48 +93,5 @@ ChatApp-Frontend/
 - **WebSocket**: Provides full-duplex communication channels over a single TCP connection for real-time messaging.
 - **CSS**: Used for styling the components and ensuring the application is responsive.
 
-## Contributing
 
-Contributions are welcome! If you have suggestions or find any bugs, feel free to fork the repository and submit a pull request. Please ensure that your code adheres to the project's coding standards and is well-documented.
 
-### Steps to Contribute
-
-1. **Fork the repository:**
-
-   Click on the "Fork" button at the top right of this repository.
-
-2. **Clone your fork:**
-
-   ```bash
-   git clone https://github.com/YashLT224/ChatApp-Frontend.git
-   ```
-
-3. **Create a new branch for your feature or bugfix:**
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-4. **Make your changes and commit them:**
-
-   ```bash
-   git commit -m "Description of the changes you made"
-   ```
-
-5. **Push your changes to GitHub:**
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-6. **Submit a pull request:**
-
-   Go to the original repository and create a pull request with a description of your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides a comprehensive guide for anyone looking to understand, install, and contribute to your `ChatApp-Frontend` project. It covers the project's purpose, features, setup instructions, and contribution guidelines, making it easy for others to get involved.
