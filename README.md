@@ -6,19 +6,6 @@ Here's a detailed `README.md` file for your `ChatApp-Frontend` repository:
 
 Welcome to the **ChatApp-Frontend** repository! This project is the frontend component of the ChatApp, a real-time chat application built using React. The application provides seamless communication between users and the server using WebSocket technology, ensuring instant message delivery and a smooth user experience. The backend of this project is powered by Strapi, handling user authentication and data storage.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **Real-time Messaging**: Enables instant message exchange between the client and the server via WebSocket.
